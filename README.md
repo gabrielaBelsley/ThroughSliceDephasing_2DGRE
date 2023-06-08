@@ -2,7 +2,7 @@
 
 The scripts implement the simulations described in the paper:
 
-** The Effect of and Correction for Through-Slice Dephasing on 2D Gradient Echo Double Angle B1+ Mapping**
+**The Effect of and Correction for Through-Slice Dephasing on 2D Gradient Echo Double Angle B1+ Mapping**
 
 Gabriela Belsley (1), Damian J. Tyler (1), Matthew D. Robson (1,2), Elizabeth M. Tunnicliffe (1)
 
