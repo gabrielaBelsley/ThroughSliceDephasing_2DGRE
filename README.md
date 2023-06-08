@@ -20,6 +20,10 @@ The simulation figures 1 and 2 from the paper can be generated with this script.
 
 Note: also download the folder DrosteEffect-BrewerMap-ca40391 (MATLAB File Exchange) in order to generate the figures.
 
+Dependencies: Uses the Bloch simulator written by Professor Brian Hargreaves: 
+
+download it from http://mrsrl.stanford.edu/~brian/blochsim/
+
 This code is distributed under the Apache License. If you use it, please cite the paper : 
 
 Author: Gabriela Belsley, University of Oxford
