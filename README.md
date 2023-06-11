@@ -26,7 +26,7 @@ download it from http://mrsrl.stanford.edu/~brian/blochsim/
 
 This code is distributed under the Apache License. If you use it, please cite the paper : 
 
-Author: Gabriela Belsley, University of Oxford
+Code Author: Gabriela Belsley, University of Oxford
 
 gabriela.belsley@siemens-healthineers.com 
 
