@@ -27,6 +27,8 @@ function [ratio_te,integral_mxy_te_alpha,integral_mxy_te_2alpha,mxy_VaryTE,mxy_2
 
 %path to Bloch simulation: Wind_blochMxyRFInterp_gradientB0SliceProfile
 addpath('/Users/gabrielabelsley/OneDrive - Perspectum Ltd/DPhil_SecondProject/MRIPhysics/UCLACourses/AdvancedMRI/Lesson2_RFPulseDesign/matlab_demo/')
+%%IMP: add path here to Prof. Hargreaves bloch simulator
+%path to Bloch simulation: Wind_blochMxyRFInterp_gradientB0SliceProfile
 
 %Note: it does not matter what T1 and T2 you use in the simulation
 %(Wind_blochMxyRFInterp_gradientB0SliceProfile) to calculate the signal at end of RF
