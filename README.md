@@ -28,8 +28,6 @@ This code is distributed under the Apache License. If you use it, please cite th
 
 Code Author: Gabriela Belsley, University of Oxford
 
-gabriela.belsley@siemens-healthineers.com 
-
 gabi.belsley@gmail.com
 
 Please contact me, if you have any questions. 
