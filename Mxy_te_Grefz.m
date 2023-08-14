@@ -26,7 +26,6 @@ function [ratio_te,integral_mxy_te_alpha,integral_mxy_te_2alpha,mxy_VaryTE,mxy_2
     %mxy_t0_2alpha: mxy complex signal 2alpha immediately after excitation pulse
 
 %path to Bloch simulation: Wind_blochMxyRFInterp_gradientB0SliceProfile
-addpath('/Users/gabrielabelsley/OneDrive - Perspectum Ltd/DPhil_SecondProject/MRIPhysics/UCLACourses/AdvancedMRI/Lesson2_RFPulseDesign/matlab_demo/')
 %%IMP: add path here to Prof. Hargreaves bloch simulator
 %path to Bloch simulation: Wind_blochMxyRFInterp_gradientB0SliceProfile
 
